@@ -10,3 +10,4 @@ C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\ConsoleApplication1\Con
 C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\Users\Tim\Documents\IST-12-IIS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\1\Documents\4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

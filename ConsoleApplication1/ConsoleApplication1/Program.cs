@@ -12,6 +12,7 @@ namespace ConsoleApplication1
     {
         BZ bd;
         int count;
+        RP rab_memory = new RP(); 
         private void serialized()
         {
             BZ myCollection = new BZ();

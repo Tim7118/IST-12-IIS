@@ -21,8 +21,14 @@ namespace ConsoleApplication1
 
     class RP
     {
-       
+        public Facts[] Fact { get; set; }
     }
+
+    class Facts
+    {
+        public string name { get; set; }
+        public string value { get; set; }
+    } 
 
 
 }
