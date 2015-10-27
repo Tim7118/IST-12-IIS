@@ -8,9 +8,16 @@ namespace ConsoleApplication1
 {
     class BZ
     {
-         
+        public Rule[] Rules { get; set; }
     }
- 
+
+    class Rule
+    {
+        public string Fact { get; set; }
+        public string Result { get; set; }
+        public string newFactName { get; set; }
+
+    }
 
     class RP
     {
