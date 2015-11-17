@@ -1,0 +1,27 @@
+start=true/The animal for the child?$ForChild
+start=true,ForChild=true/The animal must live in a cage?$Cell
+start=true,ForChild=false/Animals for a specific purpose?$Target
+start=true,ForChild=true,Cell=true/The animal must have a coat?$Woll
+start=true,ForChild=true,Cell=false/ The animal must be large?$Big
+start=true,ForChild=false,Target=true/ The animal is necessary for hunting?$Hunting
+start=true,ForChild=false,Target=false/The animal must be exotic?$Exotica
+start=true,ForChild=true,Cell=true,Woll=true/lifespan more than 5 years?$lifetime
+start=true,ForChild=true,Cell=true,Woll=false/The animal must live in water?$InWater
+start=true,ForChild=true,Cell=false,Big=true/Dog$End
+start=true,ForChild=true,Cell=false,Big=false/Cat$End
+start=true,ForChild=false,Target=true,Hunting=true/Greyhound$End
+start=true,ForChild=false,Target=true,Hunting=false/Guide-dog $End
+start=true,ForChild=false,Target=false,Exotica=true/We have experience in dealing with such animals?$Experience
+start=true,ForChild=false,Target=false,Exotica=false/A private house?$Home
+start=true,ForChild=false,Target=false,Exotica=false,Home=true/Horse$End
+start=true,ForChild=false,Target=false,Exotica=false,Home=false/lory$End
+start=true,ForChild=true,Cell=true,Woll=true,lifetime=true/Rabbit$End
+start=true,ForChild=true,Cell=true,Woll=true,lifetime=false/Degu$End
+start=true,ForChild=true,Cell=true,Woll=false,InWater=true/Gold fish$End
+start=true,ForChild=true,Cell=true,Woll=false,InWater=false/like a bird?$Bird
+start=true,ForChild=false,Target=false,Exotica=true,Experience=true/The highest price of more than $ 500?$Price
+start=true,ForChild=false,Target=false,Exotica=true,Experience=false/roomy house?$BigHome
+start=true,ForChild=true,Cell=true,Woll=false,InWater=false,Bird=true/Parrot$End
+start=true,ForChild=true,Cell=true,Woll=false,InWater=false,Bird=false/Turtle$End
+start=true,ForChild=false,Target=false,Exotica=true,Experience=true,Price=true/Cobra$End
+start=true,ForChild=false,Target=false,Exotica=true,Experience=true,Price=false/Tarantula$End
