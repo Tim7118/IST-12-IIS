@@ -1,0 +1,35 @@
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Ириша\учеба\7 семестр\столбов\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Ириша\учеба\7 семестр\столбов\2\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использованием JSON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
