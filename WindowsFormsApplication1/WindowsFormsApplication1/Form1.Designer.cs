@@ -128,7 +128,7 @@
             this.buttonAdd_AddRule.Name = "buttonAdd_AddRule";
             this.buttonAdd_AddRule.Size = new System.Drawing.Size(89, 39);
             this.buttonAdd_AddRule.TabIndex = 6;
-            this.buttonAdd_AddRule.Text = "add";
+            this.buttonAdd_AddRule.Text = "Add";
             this.buttonAdd_AddRule.UseVisualStyleBackColor = true;
             this.buttonAdd_AddRule.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -202,9 +202,9 @@
             this.labelMLV_help.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.labelMLV_help.Location = new System.Drawing.Point(201, 64);
             this.labelMLV_help.Name = "labelMLV_help";
-            this.labelMLV_help.Size = new System.Drawing.Size(58, 13);
+            this.labelMLV_help.Size = new System.Drawing.Size(70, 13);
             this.labelMLV_help.TabIndex = 7;
-            this.labelMLV_help.Text = "(true/false)";
+            this.labelMLV_help.Text = "( true / false )";
             // 
             // richTextBoxMLV_component_explanations
             // 
@@ -287,7 +287,7 @@
             this.buttonRules_dalete.Name = "buttonRules_dalete";
             this.buttonRules_dalete.Size = new System.Drawing.Size(75, 30);
             this.buttonRules_dalete.TabIndex = 3;
-            this.buttonRules_dalete.Text = "удалить";
+            this.buttonRules_dalete.Text = "Удалить";
             this.buttonRules_dalete.UseVisualStyleBackColor = true;
             this.buttonRules_dalete.Click += new System.EventHandler(this.button5_Click);
             // 
@@ -297,7 +297,7 @@
             this.buttonRules_Update.Name = "buttonRules_Update";
             this.buttonRules_Update.Size = new System.Drawing.Size(75, 30);
             this.buttonRules_Update.TabIndex = 2;
-            this.buttonRules_Update.Text = "изменить";
+            this.buttonRules_Update.Text = "Изменить";
             this.buttonRules_Update.UseVisualStyleBackColor = true;
             this.buttonRules_Update.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -307,7 +307,7 @@
             this.buttonRules_add.Name = "buttonRules_add";
             this.buttonRules_add.Size = new System.Drawing.Size(75, 30);
             this.buttonRules_add.TabIndex = 1;
-            this.buttonRules_add.Text = "добавить";
+            this.buttonRules_add.Text = "Добавить";
             this.buttonRules_add.UseVisualStyleBackColor = true;
             this.buttonRules_add.Click += new System.EventHandler(this.button3_Click);
             // 

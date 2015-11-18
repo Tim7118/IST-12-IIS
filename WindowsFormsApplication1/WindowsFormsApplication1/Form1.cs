@@ -189,7 +189,7 @@ namespace WindowsFormsApplication1
             else
             {
                 textBoxMLV_answer.Text = "";
-                MessageBox.Show("Введите корректное значение (true/false)");
+                MessageBox.Show("Введите корректное значение (true / false)");
             }
         }
 

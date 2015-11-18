@@ -33,3 +33,13 @@ J:\Интеллктуальные ИСИТ\2 lab\2 лаб, с использов
 C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tim\Documents\IST-12-IIS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
