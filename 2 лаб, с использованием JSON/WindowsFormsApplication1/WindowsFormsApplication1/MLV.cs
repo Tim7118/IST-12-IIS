@@ -6,26 +6,30 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApplication1
 {
-    interface Imlv
+    /// <summary>
+    /// Реализует поиск подходящего правила в базе знаний.
+    /// </summary>
+    class MLV : IMLV
     {
-        int Search( IBase_Info Ibi, IWorking_memory Iwm);
-    }
+        IBaseInfo IBI;
+        IWorkingMemory IWM;
 
-    class MLV : Imlv
-    {
-        IBase_Info IBI;
-        IWorking_memory IWM;
-
-        int Imlv.Search(IBase_Info Ibi, IWorking_memory Iwm)
+        /// <summary>
+        /// Поиск правила в базе знаний.
+        /// </summary>
+        /// <param name="Ibi"></param>
+        /// <param name="Iwm"></param>
+        /// <returns></returns>
+        int IMLV.Search(IBaseInfo Ibi, IWorkingMemory Iwm)
         {
             IBI = Ibi;
             IWM = Iwm;
             int rule_number = -1;
 
-            //последовательно проверяем все имеющиеся правила
+            // Последовательно проверяем все имеющиеся правила.
             for( int i = 0; i < IBI.B.Rule.Count; ++i)
             {
-                if(proverka_pravila(i))
+                if(checkRule(i))
                 {
                     rule_number = i;
                 }
@@ -33,7 +37,7 @@ namespace WindowsFormsApplication1
             return rule_number;               
         }
 
-        public bool proverka_pravila(int numberRule)
+        private bool checkRule(int numberRule)
         {
             // Правило считается выполненным, когда выполнены все его подусловия( предпосылки ).
             // Правило ЕСЛИ start=true,ForChild=true/Животное должно жить в клетке?(Cell будет считаться выполненным,
@@ -49,7 +53,7 @@ namespace WindowsFormsApplication1
                 while (j < IWM.workMemory.Fact.Count)
                 {
                     // Сравнение предпосылок правила с рабочей памятью.
-                    if (IBI.B.Rule[numberRule].Fact[i] == IWM.workMemory.Fact[j].name)
+                    if (IBI.B.Rule[numberRule].Fact[i] == IWM.workMemory.Fact[j].Name)
                     {
                         сoincidentally++;
                         break;

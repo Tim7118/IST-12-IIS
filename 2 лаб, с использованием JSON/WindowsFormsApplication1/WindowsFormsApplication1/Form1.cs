@@ -12,20 +12,20 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-        IBase_Info ibi;
-        Imlv IMLV;
-        IWorking_memory IVM;
-        IAcquirement_Knowledge IAK;
+        IBaseInfo ibi;
+        IMLV IMLV;
+        IWorkingMemory IVM;
+        IAcquirementKnowledge IAK;
 
         int Number;
 
         public Form1()
         {
             InitializeComponent();
-            ibi = new Base_Info();
+            ibi = new BaseInfo();
             IMLV = new MLV();
-            IVM = new Working_memory();
-            IAK = new Acquirement_Knowledge();
+            IVM = new WorkingMemory();
+            IAK = new AcquirementKnowledge();
         }
 
         private void workRule(int numRule)
