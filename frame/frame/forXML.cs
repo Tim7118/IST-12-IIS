@@ -65,7 +65,7 @@ namespace frame
                 }
                 catch (Exception e)
                 {
-                    // Логирование
+                    // Логирование.
                 }
                 finally
                 {
