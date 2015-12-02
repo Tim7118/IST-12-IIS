@@ -16,3 +16,12 @@ C:\Ириша\учеба\7 семестр\столбов\lab_3\лаб 3\frame\fr
 C:\Ириша\учеба\7 семестр\столбов\lab_3\лаб 3\frame\frame\obj\Debug\frame.csproj.GenerateResource.Cache
 C:\Ириша\учеба\7 семестр\столбов\lab_3\лаб 3\frame\frame\bin\Debug\frame.exe
 C:\Ириша\учеба\7 семестр\столбов\lab_3\лаб 3\frame\frame\bin\Debug\frame.pdb
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\bin\Debug\frame.exe.config
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\bin\Debug\frame.exe
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\bin\Debug\frame.pdb
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\obj\Debug\frame.csprojResolveAssemblyReference.cache
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\obj\Debug\frame.Form1.resources
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\obj\Debug\frame.Properties.Resources.resources
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\obj\Debug\frame.csproj.GenerateResource.Cache
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\obj\Debug\frame.exe
+C:\Users\Ириша\Documents\IST-12-IIS(Истомин)\frame\frame\obj\Debug\frame.pdb

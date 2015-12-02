@@ -8,11 +8,18 @@ using System.IO;
 
 namespace frame
 {
+    /// <summary>
+    /// Класс для сериализации и десериализации Базы знаний.
+    /// </summary>
     class forXML
     {
         string path = Environment.CurrentDirectory + "\\" + "frame.xml";
 
-
+        /// <summary>
+        /// Сериализация Базы знаний в xml.
+        /// </summary>
+        /// <param name="frames"></param>
+        /// <returns></returns>
         public bool SaveXml(GroopFrame frames)
         {
             bool result = false;
@@ -41,6 +48,11 @@ namespace frame
             return result;
         }
 
+        /// <summary>
+        /// Извлечение Базы знаний из xml в экземпляр класса GroopFrame.
+        /// </summary>
+        /// <param name="frames"></param>
+        /// <returns></returns>
         public object LoadXml(GroopFrame frames)
         {
             object result = null;

@@ -13,7 +13,9 @@ namespace frame
     public partial class Form1 : Form
     {
         string nameOfProcedure = "СarpetFunction";
+        // Экземпляр, реализующий доступ ко всей базе знаний.
         GroopFrame Frames = new GroopFrame();
+        // Список имен фреймов.
         List<string> nameOfFrames = new List<string>();
         forXML ForXML = new forXML();
         public Form1()
@@ -54,7 +56,7 @@ namespace frame
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (!CheckIdiot(tb[1].Text))
+            if (!CheckSizeCarpet(tb[1].Text))
             {
                 numOfPrint = 0;
                 int index = FindIndexFrame(Convert.ToString(cb1[1].SelectedValue));
@@ -177,18 +179,15 @@ namespace frame
                         break;
                 }
                 this.Controls.Add(lofv[j]);
-                //if (Frames.GroopFrm[ind].slots[j].Value == nameOfProcedure)
-                //{
-                //    СarpetFunction();
-                //}
-                //else
-                //{
-                //    lofv[j].Text = Frames.GroopFrm[ind].slots[j].Value;
-                //}
             }
             numOfPrint += 150;
         }
 
+        /// <summary>
+        /// Поиск индекса фрейма по его названию.
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
         int FindIndexFrame(string s)
         {
             for (int i = 0; i < nameOfFrames.Count; i++)
@@ -287,11 +286,9 @@ namespace frame
             {
                 lofv[Frames.GroopFrm[index].slots.Count - 1].Text = Convert.ToString(Convert.ToInt32(Frames.GroopFrm[ind].slots[1].Value) / 2);
             }
-            //lofv[Frames.GroopFrm[index].slots.Count - 1].Text = Convert.ToString(Convert.ToInt32(Frames.GroopFrm[ind].slots[1].Value) / 2);
-            //WriteFrame(index);
         }
 
-        bool CheckIdiot(string s)
+        bool CheckSizeCarpet(string s)
         {
             bool result = false;
             try
